@@ -21,13 +21,6 @@ Ensure that you have the following installed:
 - Docker
 - Git
 
-### Clone the Repository
-```bash
-git clone <repository_url>
-cd grocery-booking
-```
-
-
 ### Docker Setup
 
 To build a Docker image for this project run the below command
